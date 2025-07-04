@@ -11,7 +11,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding, Conv1D, GlobalMaxPooling1D, Dense, Dropout
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
-
+```
 # ----------------------------
 # DATASET: 20 Berita Label Manual
 # ----------------------------
